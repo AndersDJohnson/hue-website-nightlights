@@ -20,7 +20,7 @@
     "morgan": "^1.6.1",
     "node-dash-button": "^0.2.6",
     "node-hue-api": "^1.2.1",
-    "nunjucks": "^2.2.0",
+    "nunjucks": "^3.2.4",
     "sprintf-js": "^1.0.3",
     "timepicker": "^1.8.9",
     "winston": "^2.1.1"
